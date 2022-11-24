@@ -11,7 +11,7 @@ export default function Team() {
                 <div class="flex flex-wrap justify-center text-center mb-24">
                     <div class="w-full lg:w-6/12 px-4">
                        
-                        <h1 class="text-gray-900 text-4xl font-bold mb-8">
+                        <h1 class="text-gray-900 text-4xl font-extrabold mb-8">
                             Meet the Team
                         </h1>
 

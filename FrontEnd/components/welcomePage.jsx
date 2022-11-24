@@ -4,20 +4,21 @@ import { ConnectButton } from "web3uikit"
 import { MoralisProvider } from "react-moralis";
 import { useEffect, useState } from "react"
 import { useMoralis, useWeb3Contract } from "react-moralis"
-import { useNotification } from "web3uikit"
+
 import { ethers } from "ethers"
 
 export default function Welcome() {
-
+   
     return (
-        <div className="welcome">
-            <Header />
-        <div class="mt-5 ml-8 container" >
-            <h1 className="Title2" >Learn By Playing!</h1>
-            <div className="mt-5 ml-auto py-2 px-4">
+        <div style={{ backgroundImage: `url("/pink.jpg")`  }} class=" bg-cover h-screen">
+            
+        <div class="sm:pl-44 pt-60 container pl-16" >
+        <Header />
+            <h1 class="ml-2 mt-4 sm:text-5xl text-3xl  text-white font-extrabold " >Learn By <span class="text-green-300 ">Playing!</span> </h1>
+            <div className="mt-5 ml-auto ">
                 <MoralisProvider >
                   
-           <ConnectButton className="button1"  moralisAuth={false}></ConnectButton>
+           <ConnectButton  moralisAuth={false}></ConnectButton>
 
            </MoralisProvider>
 

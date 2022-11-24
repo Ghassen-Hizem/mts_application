@@ -15,7 +15,7 @@ export default function Games() {
     
       return (
         <div className="App">
-      <h1>Courses</h1>
+      
 
        <Particles
       id="tsparticles"
@@ -35,7 +35,7 @@ export default function Games() {
                 }
             },
             "color": {
-                "value": "#fff"
+                "value": "#86EFAC"
             },
             "shape": {
                 "type": "star",

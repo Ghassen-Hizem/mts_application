@@ -1,8 +1,9 @@
 import React from "react"
 import Header from "./header"
+import { useEffect, useState } from 'react';
 import { ConnectButton } from "web3uikit"
 import { MoralisProvider } from "react-moralis";
-import { useEffect, useState } from "react"
+
 import { useMoralis, useWeb3Contract } from "react-moralis"
 
 import { ethers } from "ethers"

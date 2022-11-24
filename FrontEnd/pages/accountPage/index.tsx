@@ -1,9 +1,12 @@
 import type { NextPage } from 'next'
 
+import Interface from '../../components/account/mainInterface'
+
 const Account: NextPage = () => {
     return (
-      <div>
-       testinngggggg
+      <div >
+       
+       <Interface />
       </div>
     )
   }

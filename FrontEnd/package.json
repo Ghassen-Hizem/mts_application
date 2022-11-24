@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.10",
     "@web3uikit/core": "^0.2.19",
     "@web3uikit/icons": "^0.2.19",
     "@web3uikit/web3": "^0.2.2",

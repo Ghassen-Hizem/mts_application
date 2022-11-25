@@ -2,67 +2,43 @@ import { Card, Col, Row, Button, Text } from "@nextui-org/react";
 
 export default function Cardcss() {
     return (
-  <Card css={{ w: "20%", h: "400px" }}>
-    <Card.Header css={{ position: "absolute", zIndex: 1, top: 5 }}>
-    
-    </Card.Header>
-    <Card.Body css={{ p: 0 }}>
-      <Card.Image
-        src="/css3.png"
-        objectFit="cover"
-        width="100%"
-        height="100%"
-        alt="Relaxing app background"
-      />
-    </Card.Body>
-    <Card.Footer
-      isBlurred
-      css={{
-        position: "absolute",
-        bgBlur: "#0f111466",
-        borderTop: "$borderWeights$light solid $gray800",
-        bottom: 0,
-        zIndex: 1,
-      }}
-    >
-      <Row>
-        <Col>
-          <Row>
-            <Col span={3}>
-              
-            </Col>
-            <Col>
-              <Text color="#fff" size={15}>
-              Css Game Course
-              </Text>
-              <Text color="#fff" size={13}>
-                Learn Css3 By playing Our Game
-              </Text>
-            </Col>
-          </Row>
-        </Col>
-        <Col>
-          <Row justify="flex-end">
-            <Button
-              flat
-              auto
-              rounded
-              css={{ color: "#fff", bg: "#000" }}
-             
-            >
-              <Text
-                css={{ color: "inherit" }}
-                size={15}
-                weight="bold"
-                transform="uppercase"
-              >
-                Start Game
-              </Text>
-            </Button>
-          </Row>
-        </Col>
-      </Row>
-    </Card.Footer>
-  </Card>
+      <div>
+      <section  class=" pb-20  ">
+        <div class="container mx-auto">
+          <div class="-mx-4 flex justify-between flex-wrap">
+            <div class="w-full$ px-4 md:w-1/2 xl:w-1/2">
+              <div class="mb-10 overflow-hidden rounded-lg bg-white">
+                <img
+                  src="/crypto.jpg"
+                  alt="image"
+                  class="w-full"
+                />
+                <div class="p-8 text-center sm:p-9 md:p-7 ">
+                  <h3>
+                    <a
+                      
+                      class="text-dark hover:text-primary mb-4 block text-xl font-semibold sm:text-[22px] md:text-xl lg:text-[22px] xl:text-xl 2xl:text-[22px]"
+                    >
+NFT Course                    </a>
+                  </h3>
+                  <p class="text-body-color mb-7 text-base leading-relaxed">
+                    Lorem ipsum dolor sit amet pretium consectetur adipiscing elit.
+                    Lorem consectetur adipiscing elit.
+                  </p>
+                  <a href="#"
+                    
+                    class="text-body-color hover:border-primary hover:bg-gradient-to-r from-purple-500 to-pink-500 inline-block rounded-full border border-[#E5E7EB] py-2 px-7 text-base font-medium transition hover:text-white hover:text-extrabold"
+                  >
+                    Start Game
+                  </a>
+                </div>
+              </div>
+            </div>
+           
+          
+          </div>
+        </div>
+      </section>
+          </div>
 )
 }

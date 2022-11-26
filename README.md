@@ -14,7 +14,7 @@
     <img src="./LOGO.PNG" alt="Logo" >
   </a>
 
-<h3 align="center">Gamversity</h3>
+<h3 align="center" color="blue">Gamversity</h3>
 
   <p align="center">
     project_description

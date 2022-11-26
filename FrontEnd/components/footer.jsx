@@ -6,7 +6,7 @@ export default function Footer() {
     <div class="md:flex md:justify-between">
         <div class="text-white   mb-6 md:mb-0">
             <a href="https://flowbite.com/" class="flex items-center">
-                <img style={{borderRadius: 50}} src="/LOGO.png" class="mr-3 h-8" alt="FlowBite Logo" />
+                <img style={{borderRadius: 50}} src="/LOGO.png" class="mr-3 h-8"  />
                 <span class="self-center text-2xl font-semibold whitespace-nowrap text-white">Gamversity</span>
             </a>
         </div>

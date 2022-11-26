@@ -1,6 +1,7 @@
-
+import Link from 'next/link';
 
 export default function Cardhtml() {
+
     return (
     <div>
 <section class="z-10 pb-20">
@@ -26,12 +27,12 @@ export default function Cardhtml() {
               Lorem ipsum dolor sit amet pretium consectetur adipiscing elit.
               Lorem consectetur adipiscing elit.
             </p>
-            <a href="#"
+        <Link href="http://127.0.0.1:5500/FrontEnd/index.html">  <a 
               
               class="text-body-color hover:border-primary hover:bg-gradient-to-r from-purple-500 to-pink-500 inline-block rounded-full border border-[#E5E7EB] py-2 px-7 text-base font-medium transition hover:text-white hover:text-extrabold"
             >
               Start Game
-            </a>
+            </a> </Link> 
           </div>
         </div>
       </div>

@@ -1,9 +1,9 @@
 //SPDX-License-Identifier: MIT
-pragma solidity ^0.8.17;
+pragma solidity ^0.8.7;
 contract Subscription 
 {
     address public subscriber;
-    address public us = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
+    address public us = 0x882e69d75Ded755adE24e88Ff3836EcD83FA0248;
     uint256 constant public fee =10**20;
     address[] public subscribers;
     

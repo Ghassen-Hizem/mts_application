@@ -211,7 +211,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label
 [Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular.io]: https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=990000&logo=WebGL&logoColor=FFFFFF&label
 [Angular-url]: https://angular.io/
 [Svelte.dev]: https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label
 [Svelte-url]: https://svelte.dev/

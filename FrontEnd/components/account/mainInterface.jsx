@@ -13,7 +13,7 @@ export default function Interface() {
     <h1 class="text-white text-center pr-16 pt-10  font-extrabold text-4xl md:text-8xl "> Courses</h1>
     </div>
       
-<div class="md:pl-60 pt-16 flex flex-row ">
+<div class="md:pl-60 mt-8  flex flex-row ">
  
 <Cardhtml />
 

@@ -22,7 +22,9 @@ export default function Welcome() {
 
            </MoralisProvider>
          <Link href="/accountPage"> <button id="courses" type="button" class="hidden ml-4 mt-4 pl-16 pr-16 text-xl font-extrabold text-gray-900 bg-gradient-to-r from-teal-200 to-lime-200 hover:bg-gradient-to-l hover:from-teal-200 hover:to-lime-200 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-teal-700 rounded-lg px-5 py-2.5 text-center">Go To Courses</button></Link> 
-          <button  type="button" class=" ml-4 mt-4 pl-16 pr-16 text-xl font-extrabold text-gray-900 bg-gradient-to-r from-teal-200 to-lime-200 hover:bg-gradient-to-l hover:from-teal-200 hover:to-lime-200 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-teal-700 rounded-lg px-5 py-2.5 text-center">Deploy Your own Course</button> 
+          <button  type="button" class=" ml-4 mt-4 pl-16 pr-16 text-xl font-extrabold text-gray-900 bg-gradient-to-r from-teal-200 to-lime-200 hover:bg-gradient-to-l hover:from-teal-200 hover:to-lime-200 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-teal-700 rounded-lg px-5 py-2.5 text-center">Deploy Your own Course</button>
+          <br/>
+          <Link href="/PaymentPage"> <button  type="button" class=" ml-4 mt-4 pl-16 pr-16 text-xl font-extrabold text-gray-900 bg-gradient-to-r from-teal-200 to-lime-200 hover:bg-gradient-to-l hover:from-teal-200 hover:to-lime-200 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-teal-700 rounded-lg px-5 py-2.5 text-center">Go To Payment</button></Link> 
             </div>
         </div>
         </div>

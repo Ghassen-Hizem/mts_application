@@ -6,10 +6,10 @@ export default function Cardcss() {
       <section  class=" pb-20  ">
         <div class="container mx-auto">
           <div class="-mx-4 flex justify-between flex-wrap">
-            <div class="w-full$ px-4 md:w-1/2 xl:w-1/2">
+            <div class="w-full px-4 md:w-1/2 xl:w-1/2">
               <div class="mb-10 overflow-hidden rounded-lg bg-white">
                 <img
-                  src="/crypto.jpg"
+                  src="/meta3.jpg"
                   alt="image"
                   class="w-full"
                 />

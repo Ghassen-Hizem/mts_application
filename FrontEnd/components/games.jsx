@@ -28,7 +28,7 @@ export default function Games() {
         },
         "particles": {
             "number": {
-                "value": 12,
+                "value": 20,
                 "density": {
                     "enable": false,
                     "value_area": 800

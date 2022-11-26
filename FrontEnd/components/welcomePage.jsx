@@ -18,11 +18,11 @@ export default function Welcome() {
             <div className="mt-5 &&ml-auto ">
                 <MoralisProvider  appId={1} serverUrl={'http://localhost:3001'} >
                   
-          <ConnectButton  moralisAuth={false}></ConnectButton> 
+          <ConnectButton onClick={() => {document.getElementById('courses').style.display = 'block'}}  moralisAuth={false}></ConnectButton> 
 
            </MoralisProvider>
-
-         
+         <Link href="/accountPage"> <button id="courses" type="button" class="hidden ml-4 mt-4 pl-16 pr-16 text-xl font-extrabold text-gray-900 bg-gradient-to-r from-teal-200 to-lime-200 hover:bg-gradient-to-l hover:from-teal-200 hover:to-lime-200 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-teal-700 rounded-lg px-5 py-2.5 text-center">Go To Courses</button></Link> 
+          <button  type="button" class=" ml-4 mt-4 pl-16 pr-16 text-xl font-extrabold text-gray-900 bg-gradient-to-r from-teal-200 to-lime-200 hover:bg-gradient-to-l hover:from-teal-200 hover:to-lime-200 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-teal-700 rounded-lg px-5 py-2.5 text-center">Deploy Your own Course</button> 
             </div>
         </div>
         </div>

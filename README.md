@@ -14,10 +14,10 @@
     <img src="./LOGO.PNG" alt="Logo" >
   </a>
 
-<h3 align="center" style="color: blue">Gamversity</h3>
+<h3 align="center">Gamversity</h3>
 
   <p align="center">
-    test
+    Learn While Playing !
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />

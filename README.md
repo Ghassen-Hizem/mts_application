@@ -1,10 +1,9 @@
-<a name="readme-top">testinnnng</a>
+<a name="readme-top"></a>
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Issues][issues-shield]][https://github.com/Ghassen-Hizem/mts_application/issues]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ghassen-hizem/]
 
 
 

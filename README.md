@@ -219,5 +219,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=000000&logo=Tailwind+CSS&logoColor=06B6D4&label
 [Bootstrap-url]: https://tailwindcss.com/
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery.com]: https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label
 [JQuery-url]: https://jquery.com 
